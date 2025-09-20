@@ -1,4 +1,8 @@
+
 BiG-Hacking – DevDaRK Kabo
+
+![لقطة شاشة](https://github.com/KaboSec/BiG-Hacking/blob/main/%D9%84%D9%82%D8%B7%D8%A9%20%D8%B4%D8%A7%D8%B4%D8%A9.png?raw=true)
+
 
 DevDaRK Kabo هو تطبيق رسومي احترافي مبني بلغة Python 3 باستخدام PyQt5، مصمم لمساعدة محللي الأمن السيبراني والمطورين في الوصول السريع إلى أكثر من 200 أمر موزعة على 4 أقسام رئيسية:
 
